@@ -11,7 +11,7 @@ public class Calculator {
         int onePlusTwo = one + two;
         System.out.println(onePlusTwo);
 
-        int sixDivTwo = six/two;
+        int sixDivTwo = six / two;
         int fiveMinusTwo = five - two;
         int fourTimeTwo = four * two;
 
