@@ -29,6 +29,7 @@ public class Counter {
         System.out.println(sumByEven(0, 10));
         System.out.println(sumByEven(3, 8));
         System.out.println(sumByEven(1, 1));
+
     }
 }
 
